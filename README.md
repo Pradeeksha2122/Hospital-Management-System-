@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040307
+# Name:Pradeeksha M
+# Date:25.11.2026
 
 
 # AIM:
@@ -40,6 +40,8 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="854" height="625" alt="image" src="https://github.com/user-attachments/assets/eea30336-306e-46c0-a9cc-f95847a8a198" />
+
 
 
 
@@ -59,6 +61,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="786" height="589" alt="image" src="https://github.com/user-attachments/assets/d38de017-b7c4-4281-89ac-7980f1583f39" />
 
 
 
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="827" height="593" alt="image" src="https://github.com/user-attachments/assets/555b99a0-d5c1-44ea-94b5-01ec812f9960" />
 
 
 
@@ -81,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="833" height="594" alt="image" src="https://github.com/user-attachments/assets/56da7838-be98-463e-b096-a65d62d72e52" />
 
 
 
@@ -97,6 +102,10 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
+
+
+<img width="843" height="610" alt="image" src="https://github.com/user-attachments/assets/61a217fd-8244-402d-b639-9f8f26a2b9b4" />
 
 
 
@@ -119,7 +128,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
+<img width="790" height="594" alt="image" src="https://github.com/user-attachments/assets/d598e061-90cd-46fe-87cd-360e92e7fe9c" />
 
 
 
